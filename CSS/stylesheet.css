@@ -1,0 +1,25 @@
+h1 {
+    text-align: left;
+    color: purple;
+}
+
+.main-image {
+    height: 100px;
+    width: 50%;
+    padding-left: 25%;
+    padding-right: 25%;
+}
+
+.featurs {
+    height: 200px;
+    display: inline;
+
+}
+p{
+    color: blue;
+    font-size: 12px;
+}
+ol>li{
+    list-style: circle;
+    color: green;
+}
